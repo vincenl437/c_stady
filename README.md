@@ -1,2 +1,2 @@
 # leetcode
-Let's fuck it up
+Let's not fuck it up
